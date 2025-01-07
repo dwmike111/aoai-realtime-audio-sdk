@@ -1,0 +1,3 @@
+[config]
+platform = nodejs
+version = 20
